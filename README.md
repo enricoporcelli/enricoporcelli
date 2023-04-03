@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I am a student enrolled in the Data Science and Engineering Master's degree at Politecnico di Torino.
-- :musical_note: 
+- :musical_note: : I am currently working on Music Source Separation algorithms for my thesis;
+- I am interested in NLP :books:, Audio Processing :sound: and BI :factory:
